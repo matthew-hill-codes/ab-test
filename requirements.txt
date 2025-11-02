@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib
+jupyter
+ipykernel
+plotly
+streamlit
+shap
+pymc
+arviz
+ruff
+black
+nbqa
+pre-commit
